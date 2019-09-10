@@ -1,0 +1,35 @@
+/*  Custom Colours:  */
+.clrBlue {
+  color: #07689F;
+}
+
+.clrLightblue {
+  color: #A2D5F2;
+}
+
+.clrGrey {
+  color: #EEF0F1;
+}
+
+.clrPeach {
+  color: #FF7E67;
+}
+
+
+
+body {
+  background-color: #EEF0F1;
+}
+
+
+.dashboardCards {
+  background-color: white;
+  margin: 0 auto;
+  max-width: 700px;
+  text-align: center;
+}
+
+.needsCards {
+  text-align: left;
+  background-color: #A2D5F2; 
+}
